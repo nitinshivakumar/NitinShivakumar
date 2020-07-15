@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-I am Nitin S. recently graduated from GITAM University, Bengaluru campus with 8.2 CGPA in Electronics and Communication Engineering. Though I pursued my undergrad in electronics engineering, I always had a passion towards Data Science. I kept myself busy by enrolling to various data science training and I have done several projects in Data Science. I am currently open to offers in the field of Data Science. 
+I am Nitin S. recently graduated from GITAM University, Bengaluru campus with First Class Distinction (8.2 CGPA) in Electronics and Communication Engineering. Though I pursued my undergrad in electronics engineering, I always had a passion towards Data Science. I kept myself busy by enrolling to various data science training and I have done several projects in Data Science. I am currently open to offers in the field of Data Science. 
